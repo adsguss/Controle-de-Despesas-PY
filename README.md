@@ -1,3 +1,5 @@
+
+
 📊 Controle de Despesas Desktop — Python + Tkinter
 
 
@@ -52,3 +54,10 @@ Essa implementação demonstra domínio de:
 -Bindings
 -Manipulação dinâmica de componentes GUI
 -Sincronização entre UI e dados
+
+
+<img width="1919" height="1005" alt="controle de despesas" src="https://github.com/user-attachments/assets/e06f5660-c7c6-4160-af78-07dcf80b74de" />
+
+
+
+
