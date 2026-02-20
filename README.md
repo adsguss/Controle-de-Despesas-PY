@@ -19,10 +19,15 @@ Este projeto demonstra integração entre interface gráfica (GUI) e manipulaç�
 Tecnologia	Finalidade:
 
 🐍 Python 3	Linguagem principal
+
 🖼️ Tkinter	Interface gráfica (GUI Desktop)
+
 📊 Pandas	Manipulação e estruturação de dados
+
 📁 OpenPyXL	Escrita e leitura de arquivos Excel
+
 🧠 Arquitetura da Aplicação
+
 
 A aplicação segue uma estrutura baseada em:
 Separação de responsabilidades por funções
